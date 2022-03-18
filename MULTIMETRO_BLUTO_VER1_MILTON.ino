@@ -1341,7 +1341,7 @@ void serialEvent3()
 
         Serial3.print("=GUARDADO...  ");
       }
-
+FDSAFDSAFDSAFASDFDSA
       /*
       ///////////////////////////////////////////////////////////////////////////////////////////
             //VER_EEPROM
